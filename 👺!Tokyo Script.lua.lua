@@ -1,6 +1,6 @@
 -- ╔══════════════════════════════════════════════════════════════╗
--- ║   👺 !Tokyo Script — Key System v1.0                        ║
--- ║   Discord Key Edition  ·  Navy Ice UI                       ║
+-- ║   👺 !Tokyo Script — Key System v1.0                         ║
+-- ║   Discord Key Edition  ·  Navy Ice UI                        ║
 -- ╚══════════════════════════════════════════════════════════════╝
 
 -- ══════════════════════════════════════
